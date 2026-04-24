@@ -1,0 +1,11 @@
+name = "cf-imgbed"
+compatibility_date = "2024-04-23"
+pages_build_output_dir = "dist"
+
+[[r2_buckets]]
+binding = "img_r2"
+bucket_name = "img-r2-new"
+
+[[kv_namespaces]]
+binding = "img_url"
+id = "1b5836f431be401cb1540b3321b0b633"

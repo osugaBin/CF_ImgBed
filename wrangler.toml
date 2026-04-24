@@ -1,6 +1,5 @@
 name = "cf-imgbed"
 compatibility_date = "2024-04-23"
-pages_build_output_dir = "dist"
 
 [[r2_buckets]]
 binding = "img_r2"

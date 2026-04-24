@@ -4,6 +4,7 @@ compatibility_date = "2024-04-23"
 [[r2_buckets]]
 binding = "img_r2"
 bucket_name = "img-r2-new"
+jurisdiction = "us"
 
 [[kv_namespaces]]
 binding = "img_url"
